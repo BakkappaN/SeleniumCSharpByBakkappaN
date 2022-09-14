@@ -1,5 +1,6 @@
 SeleniumCSharpByBakkappaN
-Selenium WebDriver C# Csharp tutorials Page Object Model design pattern Extent Report
+
+Selenium WebDriver C# Csharp tutorials, Page Object Model design pattern & Extent Report Generation
 
 # Selenium C# Full Course Tutorial - https://youtu.be/utfaE9Nv1FY
 
