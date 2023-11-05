@@ -28,7 +28,7 @@ namespace SeleniumCSharpTutorials
             emailTextField.SendKeys("Selenium C#");
             driver.Close();
         }
-
+        //skip attribute1
         [Test, Order(1),Category("OrderSkipAttribute")]
         public void TestMethod2()
         {
@@ -48,7 +48,7 @@ namespace SeleniumCSharpTutorials
             emailTextField.SendKeys("Selenium C#");
             driver.Close();
         }
-
+        //skip attribute2
 
     }
 }

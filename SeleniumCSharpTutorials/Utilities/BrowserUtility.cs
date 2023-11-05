@@ -17,5 +17,6 @@ namespace SeleniumCSharpTutorials.Utilities
             driver.Url = "https://www.facebook.com/";
             return driver;
         }
+        //browser utility
     }
 }

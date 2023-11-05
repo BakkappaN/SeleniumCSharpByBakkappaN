@@ -27,5 +27,6 @@ namespace SeleniumCSharpTutorials.PageObject
             ChannelNameLinkText.Click();
             return new ChannelPage(driver);
         }
+        //results set
     }
 }

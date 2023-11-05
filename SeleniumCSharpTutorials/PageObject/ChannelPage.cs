@@ -26,5 +26,6 @@ namespace SeleniumCSharpTutorials.PageObject
             Thread.Sleep(3000);
             return ChannelName.Text;
         }
+        // page class 1                            
     }
 }
