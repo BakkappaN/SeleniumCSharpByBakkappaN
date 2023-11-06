@@ -29,5 +29,7 @@ namespace SeleniumCSharpTutorials.PageObject
             SearchButton.Click();
             return new ResultPage(driver);
         }
+
+        // this is search page
     }
 }
